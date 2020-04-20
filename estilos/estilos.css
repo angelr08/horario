@@ -1,6 +1,14 @@
+
+header{
+  background-color: #a3cdf0;
+}
+
 table{
   width: 1108px;
   height: 494;
+  background-color: #278981;
 }
 
-table,
+.footer{
+  background-color: #a3cdf0;
+}
