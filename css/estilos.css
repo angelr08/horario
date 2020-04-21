@@ -1,13 +1,34 @@
 header{
  background-color: #a3cdf0;
+ font-family: "Montserrat", sans-serif;
+ color: #0a0301;
+}
+
+h1{
+   font-family: "Montserrat", sans-serif;
+   color: #0a0301;
 }
 
 table{
   width: 1108px;
-  height: 494;
+  height: 494px;
   background-color: #278981;
+  font-family: "Montserrat", sans-serif;
+  color: #0a0301;
 }
 
 footer{
   background-color: #a3cdf0;
+  font-family: "Montserrat", sans-serif;
+  color: #0a0301;
+}
+
+.facebook{
+  width: 59px;
+  height: 57px;
+}
+
+.github{
+  width: 59px;
+  height: 57px;
 }
