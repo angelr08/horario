@@ -4,9 +4,15 @@ header{
  color: #0a0301;
 }
 
+a{
+font-size: 24pt;
+text-decoration: none;
+}
+
 h1{
    font-family: "Montserrat", sans-serif;
    color: #0a0301;
+   font-size: 48pt;
 }
 
 table{
@@ -15,6 +21,14 @@ table{
   background-color: #278981;
   font-family: "Montserrat", sans-serif;
   color: #0a0301;
+}
+
+th{
+  font-size: 24pt;
+}
+
+td{
+  font-size: 18pt;
 }
 
 footer{
