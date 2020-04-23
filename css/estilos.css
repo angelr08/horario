@@ -1,12 +1,13 @@
 header{
  background-color: #a3cdf0;
  font-family: "Montserrat", sans-serif;
- color: #0a0301;
+ height: 123px;
 }
 
 a{
 font-size: 24pt;
 text-decoration: none;
+color: #0a0301;
 }
 
 h1{
@@ -21,20 +22,28 @@ table{
   background-color: #278981;
   font-family: "Montserrat", sans-serif;
   color: #0a0301;
+  border: 1px solid #05f1f0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 th{
   font-size: 24pt;
+  border: 1px solid #05f1f0;
+  text-align: center;
 }
 
 td{
   font-size: 18pt;
+  border: 1px solid #05f1f0;
+  text-align: center;
 }
 
 footer{
   background-color: #a3cdf0;
   font-family: "Montserrat", sans-serif;
   color: #0a0301;
+  height: 123px;
 }
 
 .facebook{
