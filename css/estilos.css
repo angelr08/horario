@@ -1,7 +1,17 @@
-header{
+body{
+  margin: 0;
+}
+
+.header{
  background-color: #a3cdf0;
  font-family: "Montserrat", sans-serif;
  height: 123px;
+ box-sizing: border-box;
+}
+
+.logo{
+  margin: 0;
+  padding: 10px 20px;
 }
 
 a{
@@ -14,6 +24,7 @@ h1{
    font-family: "Montserrat", sans-serif;
    color: #0a0301;
    font-size: 48pt;
+   text-align: center;
 }
 
 table{
@@ -25,6 +36,7 @@ table{
   border: 1px solid #05f1f0;
   border-collapse: collapse;
   border-spacing: 0;
+  margin: 0 auto;
 }
 
 th{
