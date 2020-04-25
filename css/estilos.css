@@ -7,6 +7,8 @@ body{
  font-family: "Montserrat", sans-serif;
  height: 123px;
  box-sizing: border-box;
+ display: flex;
+ justify-content: space-between;
 }
 
 .logo{
@@ -14,10 +16,20 @@ body{
   padding: 10px 20px;
 }
 
+.menu{
+  margin: 20px 20px;
+}
+
+ol{
+  display: flex;
+  list-style: none;
+}
+
 a{
 font-size: 24pt;
 text-decoration: none;
 color: #0a0301;
+margin: 10px;
 }
 
 h1{
@@ -56,14 +68,25 @@ footer{
   font-family: "Montserrat", sans-serif;
   color: #0a0301;
   height: 123px;
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+
+.contacto{
+  margin-left: 20px;
+}
+
+.agradecimientos{
+  margin-right: 20px;
 }
 
 .facebook{
-  width: 59px;
-  height: 57px;
+  width: 50px;
+  height: 45px;
 }
 
 .github{
-  width: 59px;
-  height: 57px;
+  width: 50px;
+  height: 45px;
 }
