@@ -42,10 +42,10 @@ h1{
 table{
   width: 1108px;
   height: 494px;
-  background-color: #278981;
+  /* background-color: #278981; */
   font-family: "Montserrat", sans-serif;
   color: #0a0301;
-  border: 1px solid #05f1f0;
+  border: 1px solid #1B1F26;
   border-collapse: collapse;
   border-spacing: 0;
   margin: 0 auto;
@@ -53,14 +53,46 @@ table{
 
 th{
   font-size: 24pt;
-  border: 1px solid #05f1f0;
+  border: 1px solid #1B1F26;
   text-align: center;
 }
 
 td{
   font-size: 18pt;
-  border: 1px solid #05f1f0;
+  border: 1px solid #1B1F26;
   text-align: center;
+}
+
+.hora{
+ background-color:#1FD155;
+}
+
+.lunes{
+  background-color:#35D164;
+}
+
+.martes{
+  background-color:#2CDEC6;
+}
+
+.miercoles{
+  background-color:#4953D1;
+}
+
+.jueves{
+  background-color:#D1881F;
+}
+
+.viernes{
+    background-color:#D1AE2A;
+}
+
+.sabado{
+  background-color:#850807;
+}
+
+.domingo{
+  background-color:#D76B9E;
 }
 
 footer{
